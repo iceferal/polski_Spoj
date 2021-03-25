@@ -1,6 +1,8 @@
 import java.util.*;
 import java.io.*;
-
+/* moim zdaniem w zadaniu jest blad, gdyz w niektorych wypadkach brane pod uwage sa 
+powtarzajace sie litery, a inne nie. litery k moga sie powtorzyc a nie powtarza sie
+litera o. */
 public class Dlugosc_najdluzszego_wspolnego_slowa {
     
     public static void slowko(String b, String d) {
