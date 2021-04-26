@@ -13,5 +13,6 @@ public class dodawanie {
             BigInteger b = scanner.nextBigInteger();
             System.out.println(a.add(b));
         }
+        scanner.close();
     }
 }
