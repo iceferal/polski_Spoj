@@ -16,7 +16,7 @@ public class Niezerowa_cyfra_silni {
         System.out.println(fin.charAt(fin.length()-1));
     }
     
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Scanner scanner = new Scanner(System.in);
         int hw = scanner.nextInt();
         for(int i =0; i<hw; i++) {
